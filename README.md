@@ -7,7 +7,7 @@ This public repository contains the training materials, tutorials, code, and ass
 |  | | 
 |:-------------------|---|
 | Course name | Python Fundamentals for Macroeconomics | 
-| Number of Hours of Theory | 16 hours |
+| Number of Hours of Theory | 24 hours |
 | Professor | Alexander Quispe Rojas |
 | PUCP email | alexander.quispe@pucp.edu.pe |
 
@@ -54,25 +54,16 @@ The evaluation consists of a final work at the end of the course.
 
 |Week|Date|Day|Schedule|Topic|Subtopic
 |---|---|---|---|---|---
-|1|01/03/2024|Saturday|08:00-11:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
-|2|01/05/2025|Saturday|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
-|3|01/08/2024|Saturday|08:00-11:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
-|4|01/10/2024|Saturday|08:00-11:30| Web Scrapping| <ul>  <li>Web Scrapping I </li>  </ul>   
-|5|01/12/2024|Saturday|08:00-11:30| Web Scrapping| <ul>   <li>Web Scrapping II </li>   </ul> 
-|6|01/12/2024|Saturday|08:00-11:30| API| <ul>  <li> APIs</li>   </ul> 
-|7|01/12/2024|Saturday|08:00-11:30| Visualization| <ul>  <li> Visualization </li>   </ul> 
-|8|01/12/2024|Saturday|08:00-11:30| NLP| <ul>  <li> NLP </li>   <li> Transformers </li>   </ul> 
+|1|01/03/2024|08:00-11:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
+|2|01/05/2025|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
+|3|01/08/2024|08:00-11:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
+|4|01/10/2024|08:00-11:30| Web Scrapping| <ul>  <li>Web Scrapping I </li>  </ul>   
+|5|01/12/2024|08:00-11:30| Web Scrapping| <ul>   <li>Web Scrapping II </li>   </ul> 
+|6|01/15/2024|08:00-11:30| API| <ul>  <li> APIs</li>   </ul> 
+|7|01/17/2024|08:00-11:30| Visualization| <ul>  <li> Visualization </li>   </ul> 
+|8|01/19/2024|08:00-11:30| NLP| <ul>  <li> NLP </li>   <li> Transformers </li>   </ul> 
 ## IX. Groups
 
-| Group 1 | Group 2 | Group 3 |
-|:---|:---|:---|
-| • VILCA GALLEGOS, LUZ NICOLE <br> • ARANDA FLORES, PAOLA CRISTINA <br> • MARTUCCELLI GARCIA, DANIELA FERNANDA <br> • VAN OORDT LOPEZ, MARIA PIA | • CRESPIN JUAREZ, CARLOS DANIEL <br> • QUISPE PAUCAR, ANGIE CRISTINA <br> • TELLO ASENCIO, JENNIFER ANDREA <br> • ARO CARDENAS, ARTURO FABIO | <br> • CRUZ PACHECO, BRISA ALEJANDRA <br> • DU-BOIS ARANA, ALEXANDER <br> • ALFARO GUERRERO, CRISTHIAN FRED <br> • CABRERA BONILLA, ESTEBAN SIMON |
-
-
-
-| Group 4 | Group 5 | Group 6 | Group 7 |
-|:---|:---|:---|:---|
-| • CUEVA MENDOZA, JHERSON ALDAIR <br> • NARVAEZ LEYVA, GABRIELA MARIE <br> • YAMAMOTO CAMPOS, GONZALO JESUS <br> • CORONADO SIALER, GUILLERMO EDUARDO | • POGGI SOLANO, CESAR ALEJANDRO <br> • NOBLEJAS GARCIA, JIMMY ALEXANDER <br> • PINILLOS ZEGARRA, XIMENA ALEJANDRA <br> • TORRES TAPIA, SEBASTIAN ELIAS | • MENDOZA MORALES, CARMEN ROSA <br> • PEREZ GUERRA, JOAQUIN ESTEBAN <br> • MINAYA TEJEDA, LIZBETH JAZMIN <br> • ALBARRACIN GARCES, VALERIA SORAYA |• ENCALADA CALDERON, MICHAEL OMAR <br> • TITO SANTA CRUZ, KERLY MABEL <br> • COLAN LAMAS, MARIA ALEJANDRA |
 
 ## X. Website
 
