@@ -1,4 +1,4 @@
-# Diplomado_Verano
+# Media Lab Python Course
 
 This public repository contains the training materials, tutorials, code, and assignments for the Training Course in Python Fundamentals for Social Sciences and Public Management at QLAB.
 
@@ -57,9 +57,11 @@ The evaluation consists of a final work at the end of the course.
 |1|01/03/2024|Saturday|08:00-11:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
 |2|01/05/2025|Saturday|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
 |3|01/08/2024|Saturday|08:00-11:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
-|4|01/10/2024|Saturday|08:00-11:30| APIs| <ul>  <li>Google Directions</li>   <li>Geolocation</li> <li>Finance APIs</li> </ul>   
-|5|01/12/2024|Saturday|08:00-11:30| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
-
+|4|01/10/2024|Saturday|08:00-11:30| APIs| <ul>  <li>Web Scrapping I </li>  </ul>   
+|5|01/12/2024|Saturday|08:00-11:30| NLP| <ul>   <li>Web Scrapping II </li>   </ul> 
+|6|01/12/2024|Saturday|08:00-11:30| NLP| <ul>  <li> APIs</li>   </ul> 
+|7|01/12/2024|Saturday|08:00-11:30| NLP| <ul>  <li> Visualization </li>   </ul> 
+|8|01/12/2024|Saturday|08:00-11:30| NLP| <ul>  <li> NLP </li>   <li> Transformers </li>   </ul> 
 ## IX. Groups
 
 | Group 1 | Group 2 | Group 3 |
