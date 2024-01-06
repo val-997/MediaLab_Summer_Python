@@ -55,7 +55,7 @@ The evaluation consists of a final work at the end of the course.
 |Week|Date|Day|Schedule|Topic|Subtopic
 |---|---|---|---|---|---
 |1|01/03/2024|08:00-11:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
-|2|01/05/2025|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
+|2|01/05/2024|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
 |3|01/08/2024|08:00-11:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
 |4|01/10/2024|08:00-11:30| Web Scrapping| <ul>  <li>Web Scrapping I </li>  </ul>   
 |5|01/12/2024|08:00-11:30| Web Scrapping| <ul>   <li>Web Scrapping II </li>   </ul> 
@@ -63,7 +63,13 @@ The evaluation consists of a final work at the end of the course.
 |7|01/17/2024|08:00-11:30| Visualization| <ul>  <li> Visualization </li>   </ul> 
 |8|01/19/2024|08:00-11:30| NLP| <ul>  <li> NLP </li>   <li> Transformers </li>   </ul> 
 ## IX. Groups
-
+| Group1                           | Group2                             | Group3                              | Group4                            | Group5                                | Group6                             | Group7                            | Group8                               |
+| -------------------------------- | ---------------------------------- | ----------------------------------- | --------------------------------- | ------------------------------------- | ---------------------------------- | --------------------------------- | ------------------------------------ |
+| SALMÓN SALAZAR, GISELLA VELDA    | BELAPATIÑO DOMINGUEZ, NATHALY RUTH | QUEQUEJANA MELO, LAURA SOPHIA       | ARRELUCEA SUAREZ, ANDREA MIRANDA  | ORE PRIETO, EDUARDO JOSUE             | BOLIVAR ESPINOZA, CARELLIA DALESKA | ALZAMORA ESPINOZA, PAOLA FERNANDA | HURTADO YANTAS, HANS CRISTIAN        |
+| PICHIHUA VEGAS, SOFIA PAMELA     | ERQUIAGA SALGADO, MARCO ANTONIO    | AGUIRRE BLAS, DAVIES ANDERS         | VERA MARQUINA, CLAUDIA ESTEFANIA  | QUISPE HURTADO, KATIA LUCERO          | MONTES CARRILLO, ALLISON SILVIA    | GONZALES CENTENO, JULIA GISELLE   | REYES COLQUEPISCO, VALERIA ELIZABETH |
+| DE LA FUENTE CHUNGA, HECTOR HUGO | SERVAN MACEDO, DANIEL ALONSO       | JUAREZ REYNA, MARIEL ALEJANDRA      | DU PONT GONZALES, DIEGO ALEXANDER | ARGOMEDO PIMINCHUMO, PAMELA ALEXANDRA | ZEVALLOS MENDEZ, AARON ALONSO      | AMARO YALTA, HILLARY ESTEFANY     | NARVAEZ LEYVA, GABRIELA MARIE        |
+| PAREDES CHAVEZ, PABLO CRISTIAN   | MORI LLACCTAS, JUAN ANTONIO        | AZAÑEDO GAMARRA, VANESSA ALESSANDRA | TICONA CENTENO, KATTY BERENICE    | JAUREGUI VERA, ANA BRIGITTE           | QUENAYA DE LA CRUZ, FAVIO MARCELO  | GONZALES SILVANO, JOSE LUIS       |
+| LOAYZA EVANGELISTA, MIGUEL ANGEL | GARCIA VERGARA, GABRIELA           | PINARES ORDINOLA, EMILY ROSE        | TELLO ESCOBAR, RONALD ALBERTO     | CORDOVA CALLE, EHZER HADID            | VASQUEZ VILCA, JOE ANDRE           |
 
 ## X. Website
 
