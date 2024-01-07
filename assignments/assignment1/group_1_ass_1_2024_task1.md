@@ -17,3 +17,8 @@ Gisella Salmon <gisellvel@gmail.com>
 **b.Information:** Database on traffic accidents that occurred on the roads of the Costa Verde from 2020 to 20
 
 **c.Interest:** I would like to find the demographic characteristics of the perpetrators of accidents that occurred on this road and if there is any factor that affects them.
+
+Héctor de la Fuente hdelafuentec@pucp.pe
+a.Database : Peruvian Identity in the publicity about soccer
+b.Information: Data about audiovisual publicity related to peruvian identity  
+c. Intertest: I would like to research how the  audiovisual publicity use soccer to show the peruvian identity. 
