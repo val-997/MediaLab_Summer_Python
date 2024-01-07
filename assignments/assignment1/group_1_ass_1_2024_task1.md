@@ -18,7 +18,7 @@ Gisella Salmon <gisellvel@gmail.com>
 
 **c.Interest:** I would like to find the demographic characteristics of the perpetrators of accidents that occurred on this road and if there is any factor that affects them.
 
-Héctor de la Fuente 
+Héctor de la Fuente Chunga
 a.Database : Peruvian Identity in the publicity about soccer
 b.Information: Data about audiovisual publicity related to peruvian identity  
 c. Intertest: I would like to research how the  audiovisual publicity use soccer to show the peruvian identity. 
