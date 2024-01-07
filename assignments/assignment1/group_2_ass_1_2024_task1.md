@@ -8,7 +8,7 @@
 
 ## Databases and their following description: 
 
-### Marco Erquiaga
+### Marco Erquiaga - marcoerquiagas@gmail.com
 
 a. Database: StatCounter
 
