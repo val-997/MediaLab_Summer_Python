@@ -31,3 +31,15 @@ Data about the progress of Investment Projects from 2014 to 2023
 
 ## Interest: 
 I would like to systematize information on paralyzed investment projects, to identify the factors that cause this state at the national level.
+
+
+# Davis Aguirre Blas
+
+## Database: 
+Global Music Composition Patterns
+
+## Information: 
+A comprehensive collection of musical compositions, categorizing them by genre, chord progressions, melody lines, and rhythm patterns, from the 1960s to 2023.
+
+## Interest: 
+My goal is to explore the evolution and diversity of chord progressions in various music genres, understanding how these have shaped modern musical styles and influenced contemporary artists.
