@@ -19,3 +19,15 @@ Data base managed by the Peruvian Ministry of Health that presents the national 
     
 ## Interest: 
 I would like to explore availability, resolution capacity and infraestructure of health service establishments within the Río Tambo district in Junin, Peru.
+
+
+# Laura Quequejana Melo
+
+## Database: 
+Monitoring of Investment Projects from Ministry of Economy and Finance - MEF
+
+## Information: 
+Data about the progress of Investment Projects from 2014 to 2023
+
+## Interest: 
+I would like to systematize information on paralyzed investment projects, to identify the factors that cause this state at the national level.
